@@ -1,6 +1,6 @@
 # Wondering how to use .ps1 files?
 ## Wishing that some random tutorial can help you?
-### Well no wonder! This guide will help you how to use .ps1 files!
+### Well no wonder! This guide will help you how to use .ps1 files! (watching you urmy)
 First of all, you should have the .ps1 file sitting in your computer downloaded FIRST okay?
 
 Step 1, open up Run by doing Windows + R!
