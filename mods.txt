@@ -26,3 +26,6 @@ aeronauticswaystone,1.0.2,https://cdn.modrinth.com/data/BxhPGfcK/versions/jWfLRj
 paladinfurniture,1.4.4,https://cdn.modrinth.com/data/SISz7Qd3/versions/U9HjuVCQ/paladin-furniture-mod-1.4.4-neoforge-mc1.21.1.jar
 drivebywire,0.2.7,https://cdn.modrinth.com/data/KsqvI0hD/versions/c9Usu0Mo/drivebywire-0.2.7.jar
 createradar,0.4.8,https://cdn.modrinth.com/data/BLu2Yqfq/versions/3MbtX7qD/create_radar-0.4.8-1.21.1.jar
+createclimbablerope,1.9.0,https://cdn.modrinth.com/data/jImqv1M5/versions/TRzJg2Zx/climbable_ropes-1.9.0.jar
+createaeronauticstoolgun,0.1.8,https://cdn.modrinth.com/data/5fUBLqeW/versions/xzGtLLjL/create_aeronautics_toolgun-0.1.8.jar
+createaeroworks,1.2.9,https://cdn.modrinth.com/data/P26k79kP/versions/LKsY0cFi/aeroworks-1.2.9.jar
